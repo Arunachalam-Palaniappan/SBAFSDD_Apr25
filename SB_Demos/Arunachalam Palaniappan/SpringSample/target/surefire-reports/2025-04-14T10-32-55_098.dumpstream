@@ -1,0 +1,5 @@
+# Created at 2025-04-14T10:32:58.330
+Boot Manifest-JAR contains absolute paths in classpath 'D:\L1 Blaze training\training projects\My sample projects\SpringSample\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
